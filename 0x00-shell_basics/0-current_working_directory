@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 #!/bin/bash
 0x00-shell_basics
+=======
+#!/bin/bash
+/alx-system_engineering-devops/0x00-shell_basics
+>>>>>>> 0b8008a3342e5ebe8893f4fb82ae4646bac80846
