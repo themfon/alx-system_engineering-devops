@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -n $'\U0001F615'
+echo "\"(Ôo)'"
